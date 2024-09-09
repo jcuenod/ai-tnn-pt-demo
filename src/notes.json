@@ -1,0 +1,722 @@
+[
+  {
+    "ref": "EST 1:1",
+    "original": "וַיְהִ֖י",
+    "literal_rendering": "E aconteceu",
+    "explanation": "A palavra traduzida como \"Isto aconteceu\" ou \"Foi\" no início da frase é uma forma comum de começar uma narrativa em hebraico. Em português, não precisamos sempre usar essa frase para iniciar uma história. Podemos simplesmente começar contando o que aconteceu. Por isso, algumas traduções omitem essa palavra ou a traduzem de forma diferente. Ao traduzir para sua língua, pense em como as histórias geralmente começam.",
+    "exegetical_significance": 2,
+    "literalness": 5,
+    "target_words": "Foi"
+  },
+  {
+    "ref": "EST 1:1",
+    "original": "בִּימֵ֣י",
+    "literal_rendering": "nos dias de",
+    "explanation": "A frase traduzida como \"no tempo de\" ou \"na época de\" significa literalmente \"nos dias de\". É uma forma comum em hebraico de dizer quando algo aconteceu. Em português e em muitas outras línguas, é mais natural dizer \"no tempo de\" ou \"quando alguém era rei\". Ao traduzir, use a forma mais natural na sua língua para falar sobre quando algo aconteceu no passado.",
+    "exegetical_significance": 3,
+    "literalness": 7,
+    "target_words": "no tempo de"
+  },
+  {
+    "ref": "EST 1:1",
+    "original": "הַמֹּלֵךְ֙",
+    "literal_rendering": "o que reina",
+    "explanation": "A palavra traduzida como \"que reinou\" ou \"que era rei\" é um particípio em hebraico. Isso significa que é uma forma verbal que descreve alguém fazendo algo. Em português, muitas vezes traduzimos isso como \"que\" mais um verbo no passado. Na sua língua, pense em como você descreveria alguém que está fazendo algo ou que tem um certo papel.",
+    "exegetical_significance": 4,
+    "literalness": 8,
+    "target_words": "que reinou"
+  },
+  {
+    "ref": "EST 1:1",
+    "original": "מֵהֹ֣דּוּ וְעַד־כּ֔וּשׁ",
+    "literal_rendering": "de Hodu até Cush",
+    "explanation": "Esta frase é traduzida como \"da Índia até a Etiópia\" em muitas versões. Os nomes \"Hodu\" e \"Cush\" eram os nomes antigos para essas regiões. As traduções modernas usam os nomes atuais para ajudar os leitores a entender melhor. Ao traduzir, você pode usar os nomes antigos e explicar o que são, ou usar nomes modernos que seus leitores conhecerão.",
+    "exegetical_significance": 6,
+    "literalness": 6,
+    "target_words": "desde a Índia até a Etiópia"
+  },
+  {
+    "ref": "EST 1:2",
+    "original": "כְּשֶׁ֣בֶת",
+    "literal_rendering": "quando sentou",
+    "explanation": "A palavra traduzida como \"reinava\" ou \"assentando-se\" literalmente significa \"quando sentou\". Os tradutores podem escolher uma tradução não literal para tornar o significado mais claro. \"Sentar-se no trono\" é uma expressão que significa \"reinar\" ou \"governar\". É importante entender que esta é uma forma comum de falar sobre um rei governando em muitas culturas antigas. Se sua língua tem uma expressão semelhante para governar, você pode usá-la. Se não, pode ser melhor dizer simplesmente \"quando reinava\" ou \"quando governava\".",
+    "exegetical_significance": 3,
+    "literalness": 5,
+    "target_words": "Naquela época"
+  },
+  {
+    "ref": "EST 1:2",
+    "original": "כִּסֵּ֣א מַלְכוּתֹ֔ו",
+    "literal_rendering": "cadeira do seu reino",
+    "explanation": "A frase traduzida como \"trono real\" literalmente significa \"cadeira do seu reino\". O trono é um símbolo de autoridade real. Em muitas culturas, a palavra para \"cadeira\" especial usada por um líder tem esse significado simbólico. Se sua língua tem uma palavra para o assento especial de um líder que simboliza autoridade, você pode usá-la. Se não, \"trono\" ou \"trono real\" comunica bem o significado.",
+    "exegetical_significance": 4,
+    "literalness": 7,
+    "target_words": "seu trono"
+  },
+  {
+    "ref": "EST 1:2",
+    "original": "הַבִּירָֽה",
+    "literal_rendering": "a fortaleza",
+    "explanation": "A palavra traduzida como \"cidadela\" ou \"capital\" literalmente significa \"a fortaleza\". Susã era a capital do império persa, e a palavra \"fortaleza\" era usada para se referir à parte fortificada da cidade onde o palácio real estava localizado. Se sua língua tem uma palavra para a parte central e fortificada de uma cidade antiga, você pode usá-la. Se não, \"capital\" ou \"cidade principal\" pode comunicar melhor o significado para leitores modernos.",
+    "exegetical_significance": 5,
+    "literalness": 6,
+    "target_words": "cidadela"
+  },
+  {
+    "ref": "EST 1:3",
+    "original": "עָשָׂ֣ה מִשְׁתֶּ֔ה",
+    "literal_rendering": "fez um banquete",
+    "explanation": "A expressão \"fez um banquete\" é uma forma comum de dizer que alguém organizou uma festa com comida. Em algumas línguas, pode ser melhor dizer \"deu uma festa\" ou \"convidou pessoas para comer\". O importante é mostrar que o rei estava oferecendo comida para muitas pessoas importantes.",
+    "exegetical_significance": 5,
+    "literalness": 8,
+    "target_words": "deu um banquete"
+  },
+  {
+    "ref": "EST 1:3",
+    "original": "חֵ֣יל",
+    "literal_rendering": "força",
+    "explanation": "A palavra traduzida como \"exército\" ou \"líderes militares\" significa literalmente \"força\". Nas línguas antigas, \"força\" muitas vezes se referia aos soldados ou líderes militares. Em algumas línguas, pode ser melhor dizer \"chefes dos soldados\" ou \"homens fortes do rei\" para transmitir a ideia de líderes militares importantes.",
+    "exegetical_significance": 6,
+    "literalness": 5,
+    "target_words": "líderes militares"
+  },
+  {
+    "ref": "EST 1:3",
+    "original": "הַֽפַּרְתְּמִ֛ים",
+    "literal_rendering": "os nobres",
+    "explanation": "Esta palavra é difícil de traduzir exatamente. Ela se refere a pessoas muito importantes no governo. Em algumas línguas, pode ser melhor dizer \"os chefes mais importantes\" ou \"as pessoas que ajudam o rei a governar\". O importante é mostrar que eram pessoas com muito poder no reino.",
+    "exegetical_significance": 7,
+    "literalness": 6,
+    "target_words": "príncipes"
+  },
+  {
+    "ref": "EST 1:3",
+    "original": "לְפָנָֽיו",
+    "literal_rendering": "diante dele",
+    "explanation": "A expressão \"diante dele\" significa que as pessoas estavam na presença do rei. Em algumas línguas, pode ser melhor dizer \"com o rei\" ou \"no mesmo lugar que o rei\". A ideia é que todas essas pessoas importantes estavam reunidas com o rei para a festa.",
+    "exegetical_significance": 4,
+    "literalness": 7,
+    "target_words": "diante dele"
+  },
+  {
+    "ref": "EST 1:4",
+    "original": "בְּהַרְאֹתֹ֗ו",
+    "literal_rendering": "em seu mostrar",
+    "explanation": "A palavra é traduzida como \"Então, mostrou\" ou \"ele mostrou\" em vez de \"em seu mostrar\". Isso é feito para tornar a frase mais natural em português. Em muitas línguas, é melhor usar um verbo simples em vez de uma construção com preposição. Isso ajuda os leitores a entender melhor o significado.",
+    "exegetical_significance": 2,
+    "literalness": 4,
+    "target_words": "Durante"
+  },
+  {
+    "ref": "EST 1:4",
+    "original": "עֹ֨שֶׁר֙",
+    "literal_rendering": "riqueza",
+    "explanation": "A palavra é traduzida como \"riquezas\" no plural em vez de \"riqueza\" no singular. Isso é feito para enfatizar a grande quantidade de riqueza. Em muitas línguas, usar o plural pode mostrar que há muito de algo. Isso ajuda os leitores a entender que o rei tinha muitas coisas valiosas.",
+    "exegetical_significance": 3,
+    "literalness": 8,
+    "target_words": "riqueza"
+  },
+  {
+    "ref": "EST 1:4",
+    "original": "כְּבֹ֣וד",
+    "literal_rendering": "glória",
+    "explanation": "A palavra é traduzida como \"glória\", que é um conceito abstrato. Em algumas línguas, pode ser difícil entender o que é \"glória\". Pode ser melhor usar palavras que descrevem coisas que as pessoas podem ver ou entender, como \"grandeza\" ou \"importância\". Isso ajuda os leitores a entender melhor o que o texto quer dizer.",
+    "exegetical_significance": 6,
+    "literalness": 9,
+    "target_words": "esplendor"
+  },
+  {
+    "ref": "EST 1:4",
+    "original": "יָמִ֣ים רַבִּ֔ים",
+    "literal_rendering": "dias muitos",
+    "explanation": "A frase é traduzida como \"muitos dias\" em vez de \"dias muitos\". Em português e em muitas outras línguas, o adjetivo vem depois do substantivo. Mas em algumas línguas, pode ser diferente. É importante colocar as palavras na ordem que soa mais natural na sua língua.",
+    "exegetical_significance": 2,
+    "literalness": 9,
+    "target_words": "muitos dias"
+  },
+  {
+    "ref": "EST 1:5",
+    "original": "וּבִמְלֹ֣ואת",
+    "literal_rendering": "E no enchimento de",
+    "explanation": "A palavra traduzida como \"Passados\" ou \"Terminados\" literalmente significa \"no enchimento de\". É uma expressão idiomática hebraica para indicar o fim de um período. Os tradutores devem usar uma expressão natural em sua língua para indicar que um período de tempo terminou, em vez de traduzir literalmente.",
+    "exegetical_significance": 3,
+    "literalness": 2,
+    "target_words": "Terminados esses dias"
+  },
+  {
+    "ref": "EST 1:5",
+    "original": "הַנִּמְצְאִים֩",
+    "literal_rendering": "os encontrados",
+    "explanation": "A palavra traduzida como \"que se achava\" ou \"que estava\" literalmente significa \"os encontrados\". É uma maneira hebraica de dizer \"que estavam presentes\". Os tradutores devem usar uma expressão natural em sua língua para indicar as pessoas que estavam em um lugar, em vez de traduzir literalmente.",
+    "exegetical_significance": 2,
+    "literalness": 3,
+    "target_words": "que estava"
+  },
+  {
+    "ref": "EST 1:5",
+    "original": "לְמִגָּ֧דֹול וְעַד־קָטָ֛ן",
+    "literal_rendering": "do grande até o pequeno",
+    "explanation": "A frase traduzida como \"tanto para os maiores como para os menores\" ou \"do mais rico ao mais pobre\" literalmente significa \"do grande até o pequeno\". É uma expressão idiomática hebraica para indicar todas as pessoas, independentemente de sua posição social. Os tradutores devem usar uma expressão em sua língua que transmita a ideia de incluir todas as pessoas, de todas as classes sociais.",
+    "exegetical_significance": 6,
+    "literalness": 4,
+    "target_words": "do mais rico ao mais pobre"
+  },
+  {
+    "ref": "EST 1:5",
+    "original": "בַּחֲצַ֕ר",
+    "literal_rendering": "no pátio",
+    "explanation": "A palavra traduzida como \"no pátio\" ou \"no jardim\" literalmente significa \"no pátio\". Refere-se a uma área aberta dentro ou perto do palácio. Os tradutores devem usar uma palavra em sua língua que descreva uma área aberta associada a um edifício importante, adequada para grandes reuniões.",
+    "exegetical_significance": 4,
+    "literalness": 8,
+    "target_words": "jardim interno"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "חוּר",
+    "literal_rendering": "branco",
+    "explanation": "A palavra traduzida como \"branco\" se refere a um tipo específico de tecido ou cor. Os tradutores podem escolher usar um termo mais geral como \"branco\" para facilitar a compreensão. É importante considerar o contexto cultural e os tipos de tecidos disponíveis na sua língua.",
+    "exegetical_significance": 3,
+    "literalness": 7,
+    "target_words": "branco"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "כַּרְפַּס",
+    "literal_rendering": "algodão fino",
+    "explanation": "Esta palavra descreve um tipo específico de tecido. Os tradutores podem usar um termo mais geral como \"linho\" ou \"algodão\" se não houver uma palavra equivalente na sua língua. O importante é transmitir a ideia de um tecido fino e valioso.",
+    "exegetical_significance": 2,
+    "literalness": 6,
+    "target_words": "branco"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "תְכֵלֶת",
+    "literal_rendering": "azul",
+    "explanation": "Esta palavra se refere a uma cor específica de azul. Se a sua língua não tem uma palavra para esta cor exata, use o termo mais próximo para \"azul\". O importante é mostrar que havia diferentes cores de tecidos.",
+    "exegetical_significance": 2,
+    "literalness": 8,
+    "target_words": "azul"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "אָחוּז",
+    "literal_rendering": "preso",
+    "explanation": "Esta palavra descreve como os tecidos estavam fixados. Use um verbo na sua língua que transmita a ideia de \"pendurar\" ou \"prender\". O importante é mostrar que os tecidos estavam seguros de alguma forma.",
+    "exegetical_significance": 2,
+    "literalness": 7,
+    "target_words": "presas"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "חַבְלֵי־בוּץ",
+    "literal_rendering": "cordas de linho fino",
+    "explanation": "Esta frase descreve o material usado para prender os tecidos. Se a sua língua não tem uma palavra para \"linho\", use um termo para um tecido fino e valioso. O importante é mostrar que as cordas eram feitas de um material especial.",
+    "exegetical_significance": 3,
+    "literalness": 8,
+    "target_words": "cordas de linho branco"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "אַרְגָּמָן",
+    "literal_rendering": "púrpura",
+    "explanation": "Esta palavra se refere a uma cor específica, geralmente associada à realeza. Se a sua língua não tem uma palavra para \"púrpura\", use o termo para uma cor vermelha escura ou roxa. O importante é transmitir a ideia de uma cor rica e valiosa.",
+    "exegetical_significance": 4,
+    "literalness": 9,
+    "target_words": "roxo"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "גְּלִילֵי כֶסֶף",
+    "literal_rendering": "anéis de prata",
+    "explanation": "Esta frase descreve os objetos usados para prender as cordas. Use palavras na sua língua que descrevam objetos circulares de metal. O importante é mostrar que eram feitos de prata, um metal valioso.",
+    "exegetical_significance": 3,
+    "literalness": 9,
+    "target_words": "anéis de prata"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "עַמּוּדֵי שֵׁשׁ",
+    "literal_rendering": "colunas de mármore",
+    "explanation": "Esta frase descreve as estruturas que suportavam os tecidos. Use palavras na sua língua para \"colunas\" e um tipo de pedra bonita e cara. O importante é mostrar que eram estruturas grandes e valiosas.",
+    "exegetical_significance": 3,
+    "literalness": 9,
+    "target_words": "colunas de mármore"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "מִטּוֹת",
+    "literal_rendering": "camas",
+    "explanation": "Esta palavra se refere a móveis para sentar ou deitar. Na sua língua, use uma palavra para um móvel confortável usado em festas. O importante é mostrar que eram lugares para as pessoas se sentarem ou deitarem durante o banquete.",
+    "exegetical_significance": 4,
+    "literalness": 7,
+    "target_words": "assentos"
+  },
+  {
+    "ref": "EST 1:6",
+    "original": "רִצְפַת בַּהַט־וָשֵׁשׁ וְדַר וְסֹחָרֶת",
+    "literal_rendering": "piso de pedras preciosas",
+    "explanation": "Esta frase descreve o chão feito de pedras caras. Use palavras na sua língua para diferentes tipos de pedras bonitas. O importante é mostrar que o chão era muito valioso e bonito.",
+    "exegetical_significance": 5,
+    "literalness": 8,
+    "target_words": "móveis de pórfiro, mármore, madrepérola e outras pedras preciosas"
+  },
+  {
+    "ref": "EST 1:7",
+    "original": "כְּיַ֥ד",
+    "literal_rendering": "como a mão de",
+    "explanation": "A expressão \"como a mão de\" é uma forma de dizer \"de acordo com\". Ela mostra o poder e a generosidade do rei. Em muitas línguas, não faz sentido falar da mão do rei para mostrar sua generosidade. É melhor dizer algo como \"o rei deu muito\" ou \"o rei foi muito generoso\".",
+    "exegetical_significance": 6,
+    "literalness": 3,
+    "target_words": "segundo a mão"
+  },
+  {
+    "ref": "EST 1:7",
+    "original": "רָ֖ב",
+    "literal_rendering": "muito",
+    "explanation": "A palavra \"muito\" aqui mostra que havia uma grande quantidade de vinho. Em algumas línguas, pode ser melhor dizer \"muitos tipos de vinho\" ou \"vinho em abundância\" para mostrar que havia muito vinho disponível.",
+    "exegetical_significance": 5,
+    "literalness": 7,
+    "target_words": "grande quantidade"
+  },
+  {
+    "ref": "EST 1:7",
+    "original": "מִכֵּלִ֣ים שֹׁונִ֑ים",
+    "literal_rendering": "de vasos diferentes",
+    "explanation": "Esta frase descreve os copos ou taças usados para beber. Ela mostra que eram todos diferentes uns dos outros. Em algumas línguas, pode ser melhor dizer \"muitos tipos de copos\" ou \"copos de formas diferentes\" para deixar claro que não eram todos iguais.",
+    "exegetical_significance": 4,
+    "literalness": 8,
+    "target_words": "diferentes"
+  },
+  {
+    "ref": "EST 1:8",
+    "original": "כַדָּ֖ת",
+    "literal_rendering": "de acordo com a lei",
+    "explanation": "A palavra traduzida como \"prescrito\" significa literalmente \"de acordo com a lei\". Os tradutores podem escolher uma palavra menos formal como \"regra\" ou \"costume\" para tornar o texto mais fácil de entender. Isso mostra que havia regras oficiais para beber no banquete do rei.",
+    "exegetical_significance": 6,
+    "literalness": 7,
+    "target_words": "ordem"
+  },
+  {
+    "ref": "EST 1:8",
+    "original": "אֵ֣ין אֹנֵ֑ס",
+    "literal_rendering": "não havia compulsão",
+    "explanation": "A frase traduzida como \"sem constrangimento\" significa literalmente \"não havia compulsão\". Os tradutores podem usar palavras como \"forçar\" ou \"obrigar\" para deixar claro que ninguém era obrigado a beber. Isso mostra que o rei permitia que as pessoas bebessem conforme desejassem.",
+    "exegetical_significance": 8,
+    "literalness": 8,
+    "target_words": "tinha permissão"
+  },
+  {
+    "ref": "EST 1:8",
+    "original": "יִסַּ֣ד",
+    "literal_rendering": "estabeleceu",
+    "explanation": "A palavra traduzida como \"ordenado\" significa literalmente \"estabeleceu\". Os tradutores podem usar palavras como \"determinou\" ou \"decidiu\" para mostrar que o rei deu uma ordem oficial. Isso indica que a liberdade para beber era uma decisão do próprio rei.",
+    "exegetical_significance": 7,
+    "literalness": 6,
+    "target_words": "tinha dado instruções"
+  },
+  {
+    "ref": "EST 1:8",
+    "original": "רַ֣ב בֵּיתֹ֔ו",
+    "literal_rendering": "grandes de sua casa",
+    "explanation": "A frase traduzida como \"oficiais da sua casa\" significa literalmente \"grandes de sua casa\". Os tradutores podem usar palavras como \"servos importantes\" ou \"funcionários do palácio\" para mostrar que eram pessoas com autoridade no palácio do rei. Isso indica que o rei deu essa ordem aos seus servos de confiança.",
+    "exegetical_significance": 5,
+    "literalness": 6,
+    "target_words": "mordomos do palácio"
+  },
+  {
+    "ref": "EST 1:8",
+    "original": "כִּרְצֹ֥ון אִישׁ־וָאִֽישׁ",
+    "literal_rendering": "conforme o desejo de cada homem",
+    "explanation": "A frase traduzida como \"segundo a vontade de cada um\" significa literalmente \"conforme o desejo de cada homem\". Os tradutores podem usar expressões como \"como cada pessoa queria\" para mostrar que as pessoas podiam escolher quanto beber. Isso enfatiza a liberdade dada aos convidados no banquete.",
+    "exegetical_significance": 9,
+    "literalness": 9,
+    "target_words": "à vontade"
+  },
+  {
+    "ref": "EST 1:9",
+    "original": "עָשְׂתָ֖ה",
+    "literal_rendering": "fez",
+    "explanation": "A palavra traduzida como \"deu\" ou \"ofereceu\" literalmente significa \"fez\". Em português, não dizemos \"fazer um banquete\", mas sim \"dar\" ou \"oferecer\". É uma diferença cultural na forma de falar sobre eventos. Na sua língua, pense em como as pessoas falam sobre organizar festas. Use palavras que soem naturais.",
+    "exegetical_significance": 2,
+    "literalness": 6,
+    "target_words": "oferecia"
+  },
+  {
+    "ref": "EST 1:9",
+    "original": "מִשְׁתֵּ֣ה",
+    "literal_rendering": "bebida",
+    "explanation": "A palavra traduzida como \"banquete\" literalmente significa \"bebida\". Mas na cultura antiga, uma festa com bebidas incluía comida também. É como a palavra \"churrasco\" em português - não é só carne, mas toda a festa. Na sua língua, use uma palavra que descreva bem uma grande festa com comida e bebida.",
+    "exegetical_significance": 3,
+    "literalness": 7,
+    "target_words": "banquete"
+  },
+  {
+    "ref": "EST 1:9",
+    "original": "בֵּ֚ית הַמַּלְכ֔וּת",
+    "literal_rendering": "casa do reino",
+    "explanation": "A frase traduzida como \"palácio real\" literalmente significa \"casa do reino\". É uma forma poética de dizer o lugar onde o rei mora e governa. Na sua língua, pense em como você descreveria a casa de um líder importante. Use palavras que mostrem que é um lugar especial e oficial.",
+    "exegetical_significance": 4,
+    "literalness": 8,
+    "target_words": "palácio do rei"
+  },
+  {
+    "ref": "EST 1:10",
+    "original": "כְּטֹ֥וב לֵב־הַמֶּ֖לֶךְ בַּיָּ֑יִן",
+    "literal_rendering": "quando o coração do rei estava bom com o vinho",
+    "explanation": "Esta frase não significa que o coração do rei estava literalmente bom. É uma expressão idiomática que significa que o rei estava alegre por causa do vinho que bebeu. Em muitas culturas, o coração é visto como o centro das emoções. Então dizer que o coração está \"bom\" é uma maneira de dizer que a pessoa está feliz ou de bom humor. O vinho frequentemente deixa as pessoas alegres quando bebem. Por isso, esta frase quer dizer que o rei estava feliz depois de beber vinho. Ao traduzir, é melhor usar palavras que mostrem claramente que o rei estava alegre, em vez de traduzir literalmente sobre o coração dele.",
+    "exegetical_significance": 7,
+    "literalness": 3,
+    "target_words": "quando o rei Xerxes já estava alegre por causa do vinho"
+  },
+  {
+    "ref": "EST 1:10",
+    "original": "הַסָּ֣רִיסִ֔ים",
+    "literal_rendering": "os eunucos",
+    "explanation": "A palavra traduzida como \"eunucos\" se refere a homens que foram castrados. Eles geralmente serviam em posições importantes nos palácios reais antigos. Em algumas culturas, pode ser difícil ou ofensivo falar diretamente sobre eunucos. Nesse caso, os tradutores podem escolher usar termos mais gerais como \"oficiais\" ou \"servos\", que mostram que esses homens tinham posições importantes, sem mencionar especificamente que eram eunucos. O importante é transmitir que esses eram servos de confiança do rei.",
+    "exegetical_significance": 5,
+    "literalness": 8,
+    "target_words": "oficiais"
+  },
+  {
+    "ref": "EST 1:10",
+    "original": "הַמְשָׁ֣רְתִ֔ים אֶת־פְּנֵ֖י הַמֶּ֥לֶךְ",
+    "literal_rendering": "que serviam diante da face do rei",
+    "explanation": "Esta frase não significa que os servos ficavam literalmente na frente do rosto do rei o tempo todo. É uma expressão que significa que eles serviam o rei diretamente e tinham acesso próximo a ele. Em muitas culturas, estar na presença de alguém importante é um sinal de honra e confiança. Então, esta frase mostra que esses servos tinham posições importantes e confiáveis perto do rei. Ao traduzir, é melhor usar palavras que mostrem claramente que esses homens serviam o rei diretamente, em vez de falar sobre ficar na frente do rosto dele.",
+    "exegetical_significance": 6,
+    "literalness": 4,
+    "target_words": "que o serviam"
+  },
+  {
+    "ref": "EST 1:11",
+    "original": "לְהַרְאֹ֨ות",
+    "literal_rendering": "para mostrar",
+    "explanation": "A palavra traduzida como \"mostrar\" pode significar \"exibir\" ou \"apresentar\". Os tradutores podem escolher uma palavra que transmita a ideia de exibição pública ou apresentação formal, dependendo do contexto cultural. É importante capturar a ideia de que o rei queria que todos vissem a beleza da rainha.",
+    "exegetical_significance": 7,
+    "literalness": 8,
+    "target_words": "mostrar"
+  },
+  {
+    "ref": "EST 1:11",
+    "original": "טֹובַ֥ת מַרְאֶ֖ה",
+    "literal_rendering": "boa de aparência",
+    "explanation": "Esta frase significa literalmente \"boa de aparência\", mas é uma expressão idiomática hebraica para \"bonita\". Os tradutores devem usar uma expressão natural em sua língua para descrever beleza física. Não é necessário traduzir palavra por palavra, mas sim capturar o significado de que a rainha era muito bonita.",
+    "exegetical_significance": 6,
+    "literalness": 5,
+    "target_words": "muito bonita"
+  },
+  {
+    "ref": "EST 1:11",
+    "original": "בְּכֶ֣תֶר מַלְכ֑וּת",
+    "literal_rendering": "com coroa de realeza",
+    "explanation": "Esta frase se refere à coroa real. Os tradutores podem simplesmente dizer \"coroa real\" em vez de \"coroa de realeza\". O importante é mostrar que a rainha deveria usar o símbolo oficial de sua posição como rainha.",
+    "exegetical_significance": 7,
+    "literalness": 8,
+    "target_words": "usando a coroa real"
+  },
+  {
+    "ref": "EST 1:12",
+    "original": "וַתְּמָאֵ֞ן",
+    "literal_rendering": "E recusou",
+    "explanation": "A palavra traduzida como \"recusou\" significa literalmente \"dizer não\". Em português, usamos \"recusar\" para expressar essa ideia de forma mais natural. Ao traduzir para sua língua, pense em como as pessoas normalmente expressam a ideia de não querer fazer algo que alguém pediu.",
+    "exegetical_significance": 8,
+    "literalness": 7,
+    "target_words": "se recusou"
+  },
+  {
+    "ref": "EST 1:12",
+    "original": "וַיִּקְצֹ֤ף",
+    "literal_rendering": "E ficou irado",
+    "explanation": "A palavra traduzida como \"enfureceu-se\" significa literalmente \"ficar muito bravo\". Em português, \"enfurecer-se\" é uma forma mais forte de expressar raiva intensa. Ao traduzir, pense em como sua língua expressa raiva muito forte.",
+    "exegetical_significance": 7,
+    "literalness": 8,
+    "target_words": "ficou furioso"
+  },
+  {
+    "ref": "EST 1:12",
+    "original": "וַחֲמָתֹ֖ו בָּעֲרָ֥ה בֹֽו",
+    "literal_rendering": "E sua fúria queimou nele",
+    "explanation": "Esta frase usa a imagem do fogo para descrever raiva intensa. Em português, dizemos que a raiva \"inflama\" alguém. Sua língua pode ter uma imagem diferente para raiva forte. Use uma expressão que as pessoas entendam facilmente para descrever raiva muito intensa.",
+    "exegetical_significance": 9,
+    "literalness": 6,
+    "target_words": "furioso e indignado"
+  },
+  {
+    "ref": "EST 1:13",
+    "original": "יֹדְעֵ֣י הָֽעִתִּ֑ים",
+    "literal_rendering": "conhecedores dos tempos",
+    "explanation": "Esta frase se refere a pessoas sábias que entendem os eventos atuais e as tendências. Em muitas culturas, essas pessoas são vistas como conselheiros importantes. Ao traduzir, pense em como sua cultura descreve pessoas que são boas em entender o que está acontecendo no mundo. Não use palavras para adivinhos ou videntes, a menos que sua cultura veja isso como uma habilidade respeitável.",
+    "exegetical_significance": 7,
+    "literalness": 6,
+    "target_words": "especialistas em questões de direito e justiça"
+  },
+  {
+    "ref": "EST 1:13",
+    "original": "דְּבַ֣ר הַמֶּ֔לֶךְ",
+    "literal_rendering": "palavra do rei",
+    "explanation": "Esta frase significa 'o assunto do rei' ou 'o procedimento do rei'. Em muitas línguas, 'palavra' pode significar 'assunto' ou 'caso'. Pense em como sua língua fala sobre assuntos importantes que precisam ser discutidos. Use uma palavra ou frase que mostre que este é um assunto oficial do rei.",
+    "exegetical_significance": 6,
+    "literalness": 4,
+    "target_words": "costume"
+  },
+  {
+    "ref": "EST 1:13",
+    "original": "יֹדְעֵ֖י דָּ֥ת וָדִֽין",
+    "literal_rendering": "conhecedores de lei e julgamento",
+    "explanation": "Esta frase descreve pessoas que entendem as leis e como aplicá-las. Em muitas culturas, essas pessoas são juízes ou conselheiros legais. Pense em como sua cultura chama pessoas que conhecem bem as leis e podem tomar decisões sobre elas. Use palavras que mostrem respeito por esse conhecimento.",
+    "exegetical_significance": 8,
+    "literalness": 7,
+    "target_words": "questões de direito e justiça"
+  },
+  {
+    "ref": "EST 1:14",
+    "original": "רֹאֵי֙ פְּנֵ֣י הַמֶּ֔לֶךְ",
+    "literal_rendering": "viam a face do rei",
+    "explanation": "Esta frase significa \"ter acesso direto ao rei\". Em muitas culturas antigas, ver o rosto de alguém importante era um privilégio. Isso mostrava que a pessoa tinha acesso próximo e podia falar diretamente com o rei. Os tradutores podem usar uma frase que signifique \"ter acesso direto\" ou \"poder falar diretamente com\" em suas línguas, em vez de traduzir literalmente sobre ver o rosto.",
+    "exegetical_significance": 7,
+    "literalness": 3,
+    "target_words": "que tinham acesso direto ao rei"
+  },
+  {
+    "ref": "EST 1:14",
+    "original": "הַיֹּשְׁבִ֥ים רִאשֹׁנָ֖ה",
+    "literal_rendering": "sentavam-se primeiro",
+    "explanation": "Esta frase significa que estes homens tinham as posições mais importantes no reino. \"Sentar-se primeiro\" era um sinal de honra e poder. Os tradutores podem usar uma frase que signifique \"ter as posições mais importantes\" ou \"ser os líderes principais\" em suas línguas, em vez de falar sobre sentar-se primeiro.",
+    "exegetical_significance": 6,
+    "literalness": 4,
+    "target_words": "os mais importantes"
+  },
+  {
+    "ref": "EST 1:15",
+    "original": "כְּדָת֙",
+    "literal_rendering": "segundo a lei",
+    "explanation": "A palavra traduzida como \"segundo a lei\" é uma expressão idiomática em hebraico. Ela significa \"de acordo com as regras oficiais\". Os tradutores devem entender que esta frase se refere às leis e costumes do reino, não apenas a uma lei específica. É importante transmitir a ideia de que o rei está buscando uma resposta oficial e legal, não apenas uma opinião pessoal.",
+    "exegetical_significance": 7,
+    "literalness": 8,
+    "target_words": "De acordo com a lei"
+  },
+  {
+    "ref": "EST 1:15",
+    "original": "מַֽה־לַּעֲשֹׂ֔ות",
+    "literal_rendering": "o que fazer",
+    "explanation": "Esta frase em hebraico é uma pergunta indireta. Em muitas línguas, perguntas indiretas são expressas de forma diferente das perguntas diretas. Os tradutores devem considerar como sua língua expressa perguntas indiretas. A ideia principal é que o rei está pedindo conselho sobre a ação apropriada a ser tomada.",
+    "exegetical_significance": 6,
+    "literalness": 9,
+    "target_words": "o que se deve fazer"
+  },
+  {
+    "ref": "EST 1:15",
+    "original": "בְּיַ֖ד",
+    "literal_rendering": "pela mão de",
+    "explanation": "A expressão \"pela mão de\" é uma metáfora comum em hebraico. Ela significa \"por meio de\" ou \"através de\". Os tradutores não devem traduzir literalmente como \"mão\", mas sim usar uma expressão em sua língua que signifique \"por meio de\" ou \"através de\". Esta frase indica que os eunucos eram intermediários, transmitindo a ordem do rei.",
+    "exegetical_significance": 5,
+    "literalness": 3,
+    "target_words": "pelos"
+  },
+  {
+    "ref": "EST 1:16",
+    "original": "עָוְתָ֖ה",
+    "literal_rendering": "fez mal",
+    "explanation": "A palavra traduzida como \"ofendeu\" significa literalmente \"fez mal\" ou \"agiu errado\". Os tradutores podem escolher uma palavra mais forte como \"ofendeu\" para mostrar a seriedade da ação da rainha. É importante entender que, no contexto da corte real, qualquer desobediência era vista como uma ofensa grave.",
+    "exegetical_significance": 7,
+    "literalness": 6,
+    "target_words": "ofendeu"
+  },
+  {
+    "ref": "EST 1:16",
+    "original": "לִפְנֵ֤י",
+    "literal_rendering": "diante de",
+    "explanation": "A frase traduzida como \"na presença de\" significa literalmente \"diante de\". Esta expressão é usada para mostrar que Memucã falou diretamente ao rei e aos nobres. Os tradutores podem usar \"na presença de\" para tornar o significado mais claro em suas línguas.",
+    "exegetical_significance": 4,
+    "literalness": 8,
+    "target_words": "na presença"
+  },
+  {
+    "ref": "EST 1:16",
+    "original": "לְבַדֹּ֔ו",
+    "literal_rendering": "sozinho",
+    "explanation": "A palavra traduzida como \"somente\" significa literalmente \"sozinho\". É usada aqui para enfatizar que a ação da rainha não afetou apenas o rei. Os tradutores podem usar \"somente\" ou uma expressão similar para transmitir essa ideia de exclusividade.",
+    "exegetical_significance": 6,
+    "literalness": 7,
+    "target_words": "somente"
+  },
+  {
+    "ref": "EST 1:17",
+    "original": "לְהַבְזֹ֥ות",
+    "literal_rendering": "para desprezar",
+    "explanation": "A palavra traduzida como \"desprezarão\" significa literalmente \"para desprezar\". Os tradutores podem escolher usar um verbo no futuro em vez do infinitivo para tornar o significado mais claro. Isso ajuda a mostrar que é uma consequência esperada das ações da rainha.",
+    "exegetical_significance": 7,
+    "literalness": 8,
+    "target_words": "desprezarão"
+  },
+  {
+    "ref": "EST 1:17",
+    "original": "בְּעֵינֵיהֶ֑ן",
+    "literal_rendering": "aos seus olhos",
+    "explanation": "A frase traduzida como \"aos olhos delas\" é uma expressão idiomática que significa \"na opinião delas\" ou \"do ponto de vista delas\". Os tradutores podem optar por não usar a palavra \"olhos\" e simplesmente dizer \"na opinião delas\" para evitar confusão.",
+    "exegetical_significance": 5,
+    "literalness": 6,
+    "target_words": "em seus olhos"
+  },
+  {
+    "ref": "EST 1:17",
+    "original": "דְבַר־הַמַּלְכָּה֙",
+    "literal_rendering": "palavra da rainha",
+    "explanation": "A frase traduzida como \"notícia do que fez a rainha\" significa literalmente \"palavra da rainha\". Aqui, \"palavra\" se refere às ações da rainha, não ao que ela disse. Os tradutores podem escolher explicar isso mais claramente, dizendo \"o que a rainha fez\" em vez de \"a palavra da rainha\".",
+    "exegetical_significance": 8,
+    "literalness": 7,
+    "target_words": "a conduta da rainha"
+  },
+  {
+    "ref": "EST 1:18",
+    "original": "וְֽהַיֹּ֨ום הַזֶּ֜ה",
+    "literal_rendering": "E neste dia",
+    "explanation": "A expressão \"hoje mesmo\" é usada para mostrar que algo vai acontecer muito rápido. É mais fácil de entender do que uma tradução palavra por palavra. Explique que isso mostra urgência e consequências imediatas das ações da rainha.",
+    "exegetical_significance": 6,
+    "literalness": 7,
+    "target_words": "Hoje mesmo"
+  },
+  {
+    "ref": "EST 1:18",
+    "original": "תֹּאמַ֣רְנָה",
+    "literal_rendering": "dirão",
+    "explanation": "Algumas traduções usam \"responderão\" ou \"agirão\". Isso mostra que as mulheres não só falarão, mas também mudarão seu comportamento. Explique que o verbo hebraico pode incluir ações além de apenas falar.",
+    "exegetical_significance": 7,
+    "literalness": 8,
+    "target_words": "agirão"
+  },
+  {
+    "ref": "EST 1:18",
+    "original": "וּכְדַ֖י בִּזָּיֹ֥ון וָקָֽצֶף",
+    "literal_rendering": "E suficiente desprezo e ira",
+    "explanation": "Muitas traduções dizem algo como \"haverá muito desprezo e indignação\". A ideia é que haverá problemas demais. Use palavras simples para explicar que isso significa muitos conflitos e raiva no reino.",
+    "exegetical_significance": 8,
+    "literalness": 6,
+    "target_words": "desrespeito e discórdia"
+  },
+  {
+    "ref": "EST 1:19",
+    "original": "יֵצֵ֤א",
+    "literal_rendering": "sair",
+    "explanation": "A palavra traduzida como \"promulgue\" ou \"emita\" literalmente significa \"sair\". É usada figurativamente para se referir à emissão de um decreto. Explique que em muitas línguas, decretos não \"saem\" literalmente, então uma tradução mais natural seria usar um verbo que signifique \"emitir\" ou \"anunciar\" um decreto.",
+    "exegetical_significance": 3,
+    "literalness": 4,
+    "target_words": "que ele emita"
+  },
+  {
+    "ref": "EST 1:19",
+    "original": "דְבַר־מַלְכוּת֙",
+    "literal_rendering": "palavra de realeza",
+    "explanation": "Esta frase é traduzida como \"decreto real\" ou \"edito real\". Literalmente significa \"palavra de realeza\". Explique que em muitas línguas, um decreto não é chamado de \"palavra\", então é melhor usar um termo que signifique \"ordem oficial\" ou \"lei do rei\".",
+    "exegetical_significance": 5,
+    "literalness": 6,
+    "target_words": "decreto real"
+  },
+  {
+    "ref": "EST 1:19",
+    "original": "מִלְּפָנָ֔יו",
+    "literal_rendering": "de sua face",
+    "explanation": "Esta frase é traduzida como \"de sua parte\" ou \"dele\". Literalmente significa \"de sua face\". Explique que em muitas línguas, decretos não vêm da \"face\" de alguém. É melhor usar uma expressão que signifique \"do rei\" ou \"por ordem do rei\".",
+    "exegetical_significance": 2,
+    "literalness": 3,
+    "target_words": "do agrado"
+  },
+  {
+    "ref": "EST 1:19",
+    "original": "וְלֹ֣א יַעֲבֹ֑ור",
+    "literal_rendering": "e não passar",
+    "explanation": "Esta frase é traduzida como \"e não se revogue\" ou \"com defesa de infringir\". Literalmente significa \"e não passar\". Explique que leis não \"passam\" neste sentido em muitas línguas. É melhor usar uma expressão que signifique \"não pode ser mudada\" ou \"deve ser obedecida\".",
+    "exegetical_significance": 7,
+    "literalness": 5,
+    "target_words": "e que seja incluído"
+  },
+  {
+    "ref": "EST 1:19",
+    "original": "לִרְעוּתָ֖הּ",
+    "literal_rendering": "para sua companheira",
+    "explanation": "Esta palavra é traduzida como \"a outra\" ou \"a alguém\". Literalmente significa \"para sua companheira\". Explique que em muitas línguas, chamar outra mulher de \"companheira\" da rainha seria estranho. É melhor usar uma palavra que signifique simplesmente \"outra mulher\" ou \"outra pessoa\".",
+    "exegetical_significance": 4,
+    "literalness": 3,
+    "target_words": "a sua posição de rainha"
+  },
+  {
+    "ref": "EST 1:20",
+    "original": "פִּתְגָ֨ם",
+    "literal_rendering": "decreto",
+    "explanation": "A palavra traduzida como \"decreto\" significa literalmente \"palavra\" ou \"mensagem\". É traduzida como \"decreto\" porque se refere a uma ordem oficial do rei. Os tradutores devem usar uma palavra que signifique uma ordem oficial do governo em suas línguas.",
+    "exegetical_significance": 5,
+    "literalness": 7,
+    "target_words": "decreto"
+  },
+  {
+    "ref": "EST 1:20",
+    "original": "רַבָּ֖ה",
+    "literal_rendering": "grande",
+    "explanation": "A palavra traduzida como \"vasto\" significa literalmente \"grande\". É traduzida como \"vasto\" para descrever o tamanho do reino. Os tradutores devem usar uma palavra que descreva um reino muito grande em suas línguas.",
+    "exegetical_significance": 3,
+    "literalness": 8,
+    "target_words": "imenso"
+  },
+  {
+    "ref": "EST 1:20",
+    "original": "יְקָר֙",
+    "literal_rendering": "honra",
+    "explanation": "A palavra traduzida como \"respeito\" significa literalmente \"honra\" ou \"valor\". É traduzida como \"respeito\" para mostrar como as esposas devem tratar seus maridos. Os tradutores devem usar uma palavra que mostre respeito e valor em suas línguas.",
+    "exegetical_significance": 7,
+    "literalness": 9,
+    "target_words": "respeitarão"
+  },
+  {
+    "ref": "EST 1:20",
+    "original": "לְמִגָּדֹ֖ול וְעַד־קָטָֽן",
+    "literal_rendering": "do grande ao pequeno",
+    "explanation": "A frase traduzida como \"do mais importante ao menos importante\" significa literalmente \"do grande ao pequeno\". É uma expressão que se refere a todas as pessoas. Os tradutores devem usar uma expressão em suas línguas que signifique \"todos\", do mais importante ao menos importante.",
+    "exegetical_significance": 6,
+    "literalness": 6,
+    "target_words": "do mais rico ao mais pobre"
+  },
+  {
+    "ref": "EST 1:21",
+    "original": "וַיִּיטַב",
+    "literal_rendering": "and it was good",
+    "explanation": "A palavra traduzida como \"agradou\" ou \"pareceu bem\" literalmente significa \"foi bom\". Em muitas línguas, não dizemos que uma ideia \"é boa\" para alguém, mas que ela \"agrada\" ou \"parece boa\". É uma forma idiomática de expressar aprovação. Ao traduzir, é melhor usar uma expressão natural que transmita a ideia de que o rei e os nobres gostaram do conselho.",
+    "exegetical_significance": 3,
+    "literalness": 6,
+    "target_words": "aceitaram de bom grado"
+  },
+  {
+    "ref": "EST 1:21",
+    "original": "בְּעֵינֵי",
+    "literal_rendering": "in the eyes of",
+    "explanation": "A frase \"aos olhos de\" é uma expressão idiomática que significa \"na opinião de\" ou \"do ponto de vista de\". Muitas línguas não usam \"olhos\" para falar de opiniões ou julgamentos. Ao traduzir, é melhor usar uma expressão que signifique \"na opinião de\" ou simplesmente dizer que o conselho agradou ao rei, sem mencionar olhos.",
+    "exegetical_significance": 2,
+    "literalness": 4,
+    "target_words": "de"
+  },
+  {
+    "ref": "EST 1:21",
+    "original": "כִּדְבַר",
+    "literal_rendering": "according to the word of",
+    "explanation": "A expressão \"segundo a palavra de\" significa \"de acordo com o conselho/sugestão de\". Em muitas línguas, não se usa \"palavra\" para se referir a um conselho ou sugestão. Ao traduzir, é melhor dizer simplesmente que o rei fez o que Memucã sugeriu ou aconselhou, usando termos comuns para conselho ou sugestão na sua língua.",
+    "exegetical_significance": 3,
+    "literalness": 5,
+    "target_words": "de modo que"
+  },
+  {
+    "ref": "EST 1:22",
+    "original": "שֹׂרֵ֣ר",
+    "literal_rendering": "governante",
+    "explanation": "A palavra traduzida como \"senhor\" significa literalmente \"governante\". Os tradutores podem escolher \"senhor\" porque é mais comum em português para descrever o chefe de uma família. Isso ajuda os leitores a entender melhor o papel do homem na casa naquela cultura. É importante manter a ideia de autoridade, mas de um jeito que faça sentido para os leitores de hoje.",
+    "exegetical_significance": 7,
+    "literalness": 8,
+    "target_words": "mandar"
+  },
+  {
+    "ref": "EST 1:22",
+    "original": "כִּלְשֹׁ֥ון עַמֹּֽו",
+    "literal_rendering": "de acordo com a língua de seu povo",
+    "explanation": "Esta frase é traduzida como \"língua do seu povo\" ou \"língua materna\". A ideia é que cada homem deve falar sua própria língua em casa. Isso era importante porque o império tinha muitos povos diferentes. Os tradutores podem escolher \"língua materna\" para deixar claro que é a língua que a pessoa aprendeu primeiro, não qualquer língua que ele fale.",
+    "exegetical_significance": 6,
+    "literalness": 9,
+    "target_words": "sua própria língua"
+  }
+]
