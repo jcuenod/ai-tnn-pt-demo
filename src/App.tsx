@@ -173,7 +173,7 @@ function App() {
           {currentVerse.replace("EST", "Esther")}
         </h1>
       </div>
-      <div className="max-w-7xl mx-auto flex flex-row pb-16">
+      <div className="max-w-6xl mx-auto flex flex-row pb-16">
         <div className="text-xl p-4">
           <BookDisplay
             currentNoteRef={currentNoteRef}
