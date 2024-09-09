@@ -135,7 +135,7 @@ const NoteDisplay = ({ noteRef }: { noteRef: string }) => {
           <summary className="font-bold">Hebrew</summary>
           <div
             dir="rtl"
-            className="text-2xl bg-slate-50 p-2 rounded-lg"
+            className="text-2xl bg-slate-50 px-4 py-2 rounded-lg border-2 border-slate-300"
             style={{ fontFamily: "SBL Biblit" }}
             dangerouslySetInnerHTML={{
               __html: originalTextWithHighlight(note.ref, note.original),
@@ -144,7 +144,9 @@ const NoteDisplay = ({ noteRef }: { noteRef: string }) => {
         </details>
         <details>
           <summary className="font-bold">Explanation</summary>
-          <div>{note.explanation}</div>
+          <div className="bg-slate-50 py-2 px-4 rounded-lg border-2 border-slate-300">
+            {note.explanation}
+          </div>
         </details>
       </div>
     </div>
@@ -171,14 +173,14 @@ function App() {
           {currentVerse.replace("EST", "Esther")}
         </h1>
       </div>
-      <div className="max-w-6xl mx-auto flex flex-row pb-16">
-        <div className="max-w-3xl text-xl p-4">
+      <div className="max-w-7xl mx-auto flex flex-row pb-16">
+        <div className="text-xl p-4">
           <BookDisplay
             currentNoteRef={currentNoteRef}
             onMouseEnter={setCurrentVerse}
           />
         </div>
-        <div className="max-w-1/3 w-96 p-4 relative">
+        <div className="p-4 relative" style={{minWidth: "25rem"}}>
           <div className="sticky top-16 right-0 p-2">
             <NoteDisplay noteRef={currentNoteRef} />
           </div>
