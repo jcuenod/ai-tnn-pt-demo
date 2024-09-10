@@ -44,7 +44,7 @@ const textWithNoteSpans = (
     newText = newText.replace(
       targetWordsString,
       `<span class="note ${
-        noteRef === currentNoteRef && "active"
+        noteRef === currentNoteRef ? "active" : ""
       }" data-ref="${noteRef}">${note.target_words}</span>`
     );
   });
