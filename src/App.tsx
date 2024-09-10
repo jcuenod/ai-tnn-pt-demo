@@ -159,6 +159,26 @@ const NoteEntry = ({ title, children }: NoteEntryProps) => {
   );
 };
 
+const CollapsibleNoteEntry = ({ title, children }: NoteEntryProps) => {
+  const [open, setOpen] = useState(false);
+  return (
+    <div className="mb-6">
+      <div className="text-sm flex justify-between">
+        <span className="text-slate-400 font-bold">{title}</span>
+        <span
+          className="text-orange-400 underline cursor-pointer hover:text-orange-600"
+          onClick={() => setOpen(!open)}
+        >
+          {open ? "hide" : "show"}
+        </span>
+      </div>
+      <div className={"text-slate-800 text-lg " + (open ? "block" : "hidden")}>
+        {children}
+      </div>
+    </div>
+  );
+};
+
 const NoteDisplay = ({
   currentNoteIndex,
   visible,
@@ -180,7 +200,7 @@ const NoteDisplay = ({
         <NoteEntry title="Literal Rendering">
           {note.literal_rendering}
         </NoteEntry>
-        <NoteEntry title="Original">
+        <CollapsibleNoteEntry title="Original Hebrew">
           <div
             dir="rtl"
             className="text-slate-800 text-xl bg-slate-100 p-4 rounded my-2"
@@ -189,7 +209,7 @@ const NoteDisplay = ({
               __html: originalTextWithHighlight(note.ref, note.original),
             }}
           />
-        </NoteEntry>
+        </CollapsibleNoteEntry>
         <NoteEntry title="Note Text">{note.explanation}</NoteEntry>
       </div>
     </div>
@@ -284,7 +304,10 @@ function App() {
   useEffect(() => {
     document.addEventListener("click", (e) => {
       if ((e.target as HTMLElement).classList.contains("note")) {
-        const ref = parseInt((e.target as HTMLElement).dataset.noteIndex || "-1");
+        const refOrNan = parseInt(
+          (e.target as HTMLElement).dataset.noteIndex || "-1"
+        );
+        const ref = isNaN(refOrNan) ? -1 : refOrNan;
         setCurrentNoteIndex(ref);
         setShowList(false);
       }
@@ -296,7 +319,7 @@ function App() {
       <div className="bg-white p-2 shadow-sm z-50">
         <div className="max-w-6xl mx-auto flex flex-row items-center">
           <span className="text-4xl text-orange-500">
-          <BookIcon />
+            <BookIcon />
           </span>
           <h1 className="ml-2 text-2xl text-gray-800 font-bold">
             AI Notes on Esther
