@@ -183,7 +183,7 @@ const NoteDisplay = ({
         <NoteEntry title="Original">
           <div
             dir="rtl"
-            className="text-slate-800 text-2xl bg-slate-100 p-4 rounded my-2"
+            className="text-slate-800 text-xl bg-slate-100 p-4 rounded my-2"
             style={{ fontFamily: "SBL Biblit" }}
             dangerouslySetInnerHTML={{
               __html: originalTextWithHighlight(note.ref, note.original),
