@@ -286,7 +286,7 @@ function App() {
   useEffect(() => {
     document.addEventListener("click", (e) => {
       if ((e.target as HTMLElement).classList.contains("note")) {
-        const ref = (e.target as HTMLElement).dataset.noteIndex || "";
+        const ref = parseInt((e.target as HTMLElement).dataset.noteIndex || "-1");
         console.log(ref, e.target);
         setCurrentNoteIndex(ref);
         setShowList(false);
