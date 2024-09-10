@@ -103,7 +103,8 @@ const originalTextWithHighlight = (ref: string, highlight: string) => {
     );
   }
 
-  console.log(originalTextWithoutVowels, highlightWithoutVowels);
+  console.warn(originalTextWithoutVowels, highlightWithoutVowels);
+  console.warn("Highlight not found in original text");
   return originalText;
 };
 
@@ -212,11 +213,9 @@ const ListDisplay = ({
   // hovering the note will highlight it in the book display
   useEffect(() => {
     // scroll into view the first note for the current reference
-    console.log(reference);
     const listNote = document.querySelector(
       `[data-notelist-ref="${reference}"]`
     );
-    console.log(listNote);
     if (listNote) {
       // nearest
       listNote.scrollIntoView({ behavior: "smooth" });
@@ -237,7 +236,6 @@ const ListDisplay = ({
           style={{ scrollMarginTop: "60px" }}
           onClick={() => onClick(i.toString())}
           onMouseEnter={() => {
-            console.log(i);
             setHoveredNoteRef(i.toString());
             // setCurrentVerse(note.ref.split("__")[0]);
           }}
@@ -287,7 +285,6 @@ function App() {
     document.addEventListener("click", (e) => {
       if ((e.target as HTMLElement).classList.contains("note")) {
         const ref = parseInt((e.target as HTMLElement).dataset.noteIndex || "-1");
-        console.log(ref, e.target);
         setCurrentNoteIndex(ref);
         setShowList(false);
       }
