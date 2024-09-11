@@ -19,6 +19,38 @@ const BookIcon = () => (
     <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
   </svg>
 );
+const ChevronLeftIcon = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    className="feather feather-chevron-left"
+  >
+    <polyline points="15 18 9 12 15 6"></polyline>
+  </svg>
+);
+const ChevronRightIcon = () => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+    className="feather feather-chevron-right"
+  >
+    <polyline points="9 18 15 12 9 6"></polyline>
+  </svg>
+);
 
 const removeAccents = (x: string) =>
   x.replace(/[\u0590-\u05AF\u05BD\u05C0]/g, "").replace(/[\u05C3־]/g, "");
@@ -179,13 +211,16 @@ const CollapsibleNoteEntry = ({ title, children }: NoteEntryProps) => {
   );
 };
 
+type NoteDisplayProps = {
+  currentNoteIndex: number;
+  visible: boolean;
+  setCurrentNoteIndex: React.Dispatch<React.SetStateAction<number>>;
+};
 const NoteDisplay = ({
   currentNoteIndex,
   visible,
-}: {
-  currentNoteIndex: number;
-  visible: boolean;
-}) => {
+  setCurrentNoteIndex,
+}: NoteDisplayProps) => {
   const note = notes[currentNoteIndex];
   if (!note) {
     return <div />;
@@ -193,7 +228,27 @@ const NoteDisplay = ({
 
   return (
     <div className="p-4" style={{ display: visible ? "block" : "none" }}>
-      <div className="bg-white shadow p-8">
+      <div className="bg-white shadow p-8 relative">
+        <div className="absolute right-2 top-2 flex flex-row">
+          <div
+            className="h-8 w-8 m-1 bg-slate-100 hover:bg-slate-200 hover:text-orange-500 active:bg-slate-300 flex items-center justify-center rounded cursor-pointer"
+            onClick={() =>
+              setCurrentNoteIndex(
+                (currentNoteIndex - 1 + notes.length) % notes.length
+              )
+            }
+          >
+            <ChevronLeftIcon />
+          </div>
+          <div
+            className="h-8 w-8 m-1 bg-slate-100 hover:bg-slate-200 hover:text-orange-500 active:bg-slate-300 flex items-center justify-center rounded cursor-pointer"
+            onClick={() =>
+              setCurrentNoteIndex((currentNoteIndex + 1) % notes.length)
+            }
+          >
+            <ChevronRightIcon />
+          </div>
+        </div>
         <NoteEntry title="Reference">
           {note.ref.replace("EST", "Esther")}
         </NoteEntry>
@@ -361,6 +416,7 @@ function App() {
           <NoteDisplay
             visible={!showList}
             currentNoteIndex={currentNoteIndex}
+            setCurrentNoteIndex={setCurrentNoteIndex}
           />
         </div>
       </div>
